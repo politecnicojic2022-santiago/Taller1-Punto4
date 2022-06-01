@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE listaventas SYSTEM "ListaVentas.dtd">
+
+<listaventas>
+    <venta codigo="A321">
+        <importe>300000</importe>
+        <comprador>Carlos</comprador>
+        <vendedor>Santiago</vendedor>
+        <fecha>2021-10-21</fecha>
+    </venta>
+    <venta codigo="A322">
+        <importe>400000</importe>
+        <comprador>Perez</comprador>
+        <vendedor>Santiago</vendedor>
+    </venta>
+</listaventas>
