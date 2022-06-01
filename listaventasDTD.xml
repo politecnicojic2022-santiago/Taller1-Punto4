@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<!DOCTYPE listaventas SYSTEM "ListaVentas.dtd">
+<!DOCTYPE listaventas SYSTEM "listaventas.dtd">
 
 <listaventas>
     <venta codigo="A321">
