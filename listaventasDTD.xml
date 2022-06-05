@@ -2,6 +2,8 @@
 
 <!DOCTYPE listaventas SYSTEM "listaventas.dtd">
 
+<?xml-stylesheet href="listaventas.xsl" type="text/xsl"?>
+
 <listaventas>
     <venta codigo="A321">
         <importe>300000</importe>
